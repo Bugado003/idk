@@ -1,2 +1,2 @@
 # idk
-some dumb shitlol
+some dumb shit

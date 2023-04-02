@@ -15,7 +15,7 @@ using System;
         }
     public void Nickname()
     {
-      Console.WriteLine($ "Hello {Username}");
+      Console.WriteLine($"Hello {Username}");
       }
     public void Passwd()
     {
